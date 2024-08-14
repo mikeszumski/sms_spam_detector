@@ -6,4 +6,4 @@ This challenge involves building a Support Vector Classifiction (SVC) model to d
 All code is based on templates provided, and is my work.
 
 ## Where is the code?
-The code module, sms_text_classification_solution.ipynb, is in the top level folder of my "sms_spam_detector" repo.
+The code module, gradio_sms_text_classification.ipynb, is in the top level folder of my "sms_spam_detector" repo.
